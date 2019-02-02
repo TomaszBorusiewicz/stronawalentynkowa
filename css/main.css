@@ -23,5 +23,15 @@ form{
 .check-button{
     width: 150px;
     margin: auto;
-    
+}
+
+.rewards-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.reward{
+    margin: 5%;
 }
